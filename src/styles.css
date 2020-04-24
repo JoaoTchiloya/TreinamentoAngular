@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+
+
+.alert-success {
+  color: white;
+  background-color: #4ca750;
+  border-color: #4ca750;
+}
+
